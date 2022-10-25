@@ -1,0 +1,36 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "description": "Desenvolvimento de site",
+            "type": "income",
+            "category": "Venda",
+            "price": 14000,
+            "createAt": "2022-10-24T23:49:04.363Z"
+        },
+        {
+            "id": 2,
+            "description": "Hamburguer",
+            "type": "outcome",
+            "category": "Alimentação",
+            "price": 50,
+            "createAt": "2022-10-24T23:11:04.363Z"
+        },
+        {
+            "id": 3,
+            "description": "Salário",
+            "type": "income",
+            "category": "Recebimento",
+            "price": 1200,
+            "createAt": "2022-10-24T23:22:04.363Z"
+        },
+        {
+            "id": 4,
+            "description": "Pizza",
+            "type": "outcome",
+            "category": "Alimentação",
+            "price": 50,
+            "createAt": "2022-10-24T23:55:04.363Z"
+        }
+    ]
+}
