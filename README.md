@@ -5,7 +5,7 @@ Projeto exclusivo do Curso ignite da plataforma da Rocketseat
 </p>
 
 <p align="center">
-  <img alt="rocketpay" src=".src/assets/group.png" width="100%">
+  <img alt="dt-money" src=".src/assets/Group.png" width="100%">
 </p>
 
 ## Como usar?
