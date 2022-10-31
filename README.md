@@ -4,6 +4,10 @@
 Projeto exclusivo do Curso ignite da plataforma da Rocketseat
 </p>
 
+<p align="center">
+  <img alt="rocketpay" src=".github/project.png" width="100%">
+</p>
+
 ## Como usar?
 
 - NPM e NODEJS
