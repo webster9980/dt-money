@@ -1,36 +1,60 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createAt": "2022-10-24T23:49:04.363Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createAt": "2022-10-24T23:11:04.363Z"
-        },
-        {
-            "id": 3,
-            "description": "Salário",
-            "type": "income",
-            "category": "Recebimento",
-            "price": 1200,
-            "createAt": "2022-10-24T23:22:04.363Z"
-        },
-        {
-            "id": 4,
-            "description": "Pizza",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createAt": "2022-10-24T23:55:04.363Z"
-        }
-    ]
+  "transactions": [
+    {
+      "description": "produto",
+      "price": 12,
+      "category": "alimentos",
+      "type": "outcome",
+      "createdAt": "2022-10-30T13:20:55.603Z",
+      "id": 1
+    },
+    {
+      "description": "sanduiche",
+      "price": 12,
+      "category": "alimentos",
+      "type": "outcome",
+      "createdAt": "2022-10-30T13:21:11.111Z",
+      "id": 2
+    },
+    {
+      "description": "salario",
+      "price": 1200,
+      "category": "Pagamento",
+      "type": "income",
+      "createdAt": "2022-10-30T13:21:37.045Z",
+      "id": 3
+    },
+    {
+      "description": "salario",
+      "price": 12,
+      "category": "Pagamento",
+      "type": "income",
+      "createdAt": "2022-10-30T13:50:09.909Z",
+      "id": 4
+    },
+    {
+      "description": "produto",
+      "price": 12,
+      "category": "alimentos",
+      "type": "outcome",
+      "createdAt": "2022-10-30T17:47:29.302Z",
+      "id": 5
+    },
+    {
+      "description": "sanduiche beatriz",
+      "price": 12,
+      "category": "alimentos",
+      "type": "outcome",
+      "createdAt": "2022-10-31T10:42:51.236Z",
+      "id": 6
+    },
+    {
+      "description": "sanduiche",
+      "price": 12,
+      "category": "alimentos",
+      "type": "outcome",
+      "createdAt": "2022-10-31T10:54:19.215Z",
+      "id": 7
+    }
+  ]
 }
